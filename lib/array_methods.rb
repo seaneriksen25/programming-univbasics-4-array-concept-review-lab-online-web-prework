@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
   # Add your solution here
   
   find_element_index = [0, 1]
-  find_element_index[0]
+  find_element_index[8]
 end
 
 def find_max_value(array)
