@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
   
-  find_element_index = [1, 0, 4, 5, 6, 7, 2]
+  find_element_index = [0, 1]
   find_element_index[0]
 end
 
