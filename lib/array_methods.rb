@@ -8,13 +8,13 @@ end
 def find_max_value(array)
   # Add your solution here
   
-  find_max_value = [5]
+  find_max_value = 5
   
 end
 
 def find_min_value(array)
   # Add your solution here
   
-  find_min_value = [2]
+  find_min_value = 2
   
 end
